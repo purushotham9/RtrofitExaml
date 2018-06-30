@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">RtrofitExamle</string>
+    <!-- Screen login -->
+    <string name="app_welcome">WELCOME TO THE COMPANIES</string>
+    <string name="app_nameExample">Lorem ipsum dolor sit amet, contetur adipiscing elit. Nunc accumsan.</string>
+    <string name="app_password">Password</string>
+    <string name="app_email">E-mail</string>
+    <string name="app_login">Login</string>
+
+    <!-- Screen main -->
+
+    <string name="action_search">Search</string>
+    <string name="action_start">Click on the search to start</string>
+
+    <!-- Screen Detail -->
+
+    <string name="action_textDetail"> Detail Enterprise</string>
+
+</resources>
